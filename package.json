@@ -1,0 +1,27 @@
+{
+  "name": "typescript-primer",
+  "version": "1.0.0",
+  "description": "Classwork on TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teembama/typescript.git"
+  },
+  "author": "Therese Mbama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teembama/typescript/issues"
+  },
+  "homepage": "https://github.com/teembama/typescript#readme",
+  "devDependencies": {
+    "@types/node": "^20.14.1",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "undici-types": "^5.26.5"
+  }
+}
